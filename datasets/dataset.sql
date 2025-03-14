@@ -8,7 +8,7 @@ CREATE TABLE Clientes (
 -- Tabela produtos
 CREATE TABLE Produtos (
     id_produto SERIAL PRIMARY KEY,
-    nome VARCHAR(100),
+    nome_produto VARCHAR(100),
     preco DECIMAL(10, 2) 
 );
 
