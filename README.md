@@ -1,9 +1,9 @@
 ﻿# projeto-joins-sql
 
-Este é um repositório que contém uma série de exercícios para praticar e entender as operações de JOINS em SQL. Esses exercícios cobrem vários tipos de junção, como INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL OUTER JOIN e CROSS JOIN.
+Este é um repositório que contém uma série de exercícios para praticar e entender as operações de JOINS em SQL. Esses exercícios cobrem vários tipos de junção, como INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL OUTER JOIN e CROSS JOIN. Todos os exercícios foram feitos utilizando o PostgreSQL como SGBD.
 
 <h2>Objetivo</h2>
-O objetivo deste repositório é fornecer exemplos práticos para aprender e dominar o uso de JOINS em SQL, sendo essenciais para combinar dados de várias tabelas de maneira eficiente. Os exercícios estão organizados em pastas específicas para cada tipo de JOIN.
+O objetivo deste repositório é fornecer exemplos práticos para aprender e dominar o uso de JOINS em SQL, sendo essenciais para combinar dados de várias tabelas de maneira eficiente. Os exercícios estão organizados em pastas específicas para cada tipo de JOIN. 
 
 <h2>Estrutura</h2>
 <ul>
